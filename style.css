@@ -1,0 +1,27 @@
+
+h1 {
+    background-color: salmon;
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 44px;
+}
+img {
+    height: auto;
+    width: 600px;
+    
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: pink;
+}
+p {
+    font-family: sans-serif, 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+a {
+    font-size: 22px;
+    font-family: sans-serif, 'Times New Roman', Times, serif
+}
